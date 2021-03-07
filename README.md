@@ -1,5 +1,9 @@
 # dell-optiplex-7080mff-hackintosh
 
+## 配置
+
+![](https://github.com/chaseSpace/dell-optiplex-7080-hackintosh/blob/main/ludashi.png)
+
 只剩下以下问题：
 - 无法显示4K
 - wifi接收信号弱(win没问题)
