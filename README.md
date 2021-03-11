@@ -1,4 +1,4 @@
-# dell-optiplex-7080mff-hackintosh
+# dell-optiplex-7080mff-hackintosh  OC EFI
 
 ## 配置
 
